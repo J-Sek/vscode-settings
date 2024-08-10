@@ -93,7 +93,9 @@
     "workbench.tree.indent": 15,
 
     // Git
+    "scm.showHistoryGraph": false,
     "scm.showIncomingChanges": "never",
+    "scm.showOutgoingChanges": "never",
     "git.autofetch": true,
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
